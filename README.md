@@ -1,7 +1,7 @@
 # Quick base express app (Use this as a starter)
 
 ```aiignore
-git pull https://github.com/dannymk/express.git
+git clone https://github.com/dannymk/express.git
 cd express
 npm install
 node index.js
